@@ -1,0 +1,21 @@
+1.goto your localhost
+2.click on phpMyAdmin
+3.at the upper tab look for the 'import' tab and click on it
+4.in the `file to import` section browse to this flder and select the laspotech_e_election.sql file and click on it, leave every other thing
+and click on go button below the page  
+
+NB:make sure any of your database name those not collide with this <laspotch_e_election>.
+
+after you might have successfully import the database
+5.copy this whole folder to your www folder.
+6.goto your localhost page eg: 127.0.0.1   OR  localhost://
+7.in YOUR PROJECT section click on evoting'
+8. the page will load successfully
+
+
+NB: no validation is carried out on the input files; make sure all your input corressponds to the input field expected from you
+else th whole program might lost;
+
+
+ADMIN USERNAME:vote_administrator
+ADMIN PASSWORD:i_am_admin
